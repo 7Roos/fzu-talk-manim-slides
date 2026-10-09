@@ -16,6 +16,8 @@ It is necessary to install:
 - **Pkg-config** & **Cairo**: vector graphics libraries used by Manim
 - **Manim**
 
+More details can be found in the official documentation of **Manim** in (https://www.manim.community/) and **Manim-Slides** in (https://manim-slides.eertmans.be/latest/).
+
 ### Installing System Dependencies.
 
 For Ubuntu:

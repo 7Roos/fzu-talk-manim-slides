@@ -132,7 +132,7 @@ def render_slide(slide_name, quality=DEFAULT_QUALITY):
 def convert_to_html(scenes):
     """Converts specified Manim slides to HTML format."""
     scenes_str = " ".join(scenes)
-    os.system(f"manim-slides convert {scenes_str} slides_full2.html")
+    os.system(f"manim-slides convert {scenes_str} slides_full.html")
 
 
 # Define a lista de todos os slides em ordem
