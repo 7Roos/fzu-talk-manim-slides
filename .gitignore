@@ -1,0 +1,34 @@
+#Latex
+*.aux
+*.log
+*.gz
+*.dvi
+*.cls
+*.bbl
+*.blg
+*.toc
+*.fdb_latexmk
+*.fls 
+*Dockerfile
+*.bcf
+*.nav
+*.xml
+*.snm
+*.bcf-SAVE-ERROR
+*.bbl-SAVE-ERROR
+*.lof
+*.lot
+#*.sty
+*.spl
+*.ps
+*.abs
+#*.tex
+
+# Python
+#*.pyc
+#*.mp4
+#*.json
+
+# Folders
+partial_movie_files
+media
